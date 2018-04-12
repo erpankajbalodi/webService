@@ -1,0 +1,80 @@
+{
+    "ResultSet": {
+        "EmployeeErrors": {
+    		"start": "20180221",
+			"end": "20180221",
+			"hs": "12604",
+			"Error": [{
+					"fn": "Johnathan",
+					"ln": "Weems",
+					"msg": "P1X mismatch",
+					"dt": "2018-02-21 19:02:00",
+					"dtd": "2018-02-21 19:02:00"
+				},
+				{
+					"fn": "bahnathan",
+					"ln": "Weems",
+					"msg": "P1X mismatch",
+					"dt": "2018-02-21 19:02:00",
+					"dtd": "2018-02-21 19:02:00"
+				},
+				{
+					"fn": "zahnathan",
+					"ln": "Weems",
+					"msg": "P1X mismatch",
+					"dt": "2018-02-21 19:02:00",
+					"dtd": "2018-02-21 19:02:00"
+				},
+				{
+					"fn": "Johnathan",
+					"ln": "Wemns",
+					"msg": "P1X mismatch",
+					"dt": "2018-02-21 19:02:00",
+					"dtd": "2018-02-21 19:02:00"
+				},
+				{
+					"fn": "Faith",
+					"ln": "Gaddie",
+					"msg": "P1X mismatch",
+					"dt": "2018-03-21 18:42:00",
+					"dtd": "2018-02-21 18:42:00"
+				},
+				{
+					"fn": "Dermonte",
+					"ln": "Lang",
+					"msg": "P1X mismatch",
+					"dt": "2018-04-24 18:42:00",
+					"dtd": "2018-02-21 18:42:00"
+				},
+				{
+					"fn": "Faith",
+					"ln": "Gaddie",
+					"msg": "P1X mismatch",
+					"dt": "2018-02-25 18:42:00",
+					"dtd": "2018-02-21 18:42:00"
+				},
+				{
+					"fn": "Faith",
+					"ln": "Gaddie",
+					"msg": "P1X mismatch",
+					"dt": "2018-04-26 18:42:00",
+					"dtd": "2018-02-21 18:42:00"
+				},
+				{
+					"fn": "Faith",
+					"ln": "Gaddie",
+					"msg": "P1X mismatch",
+					"dt": "2018-04-23 18:42:00",
+					"dtd": "2018-02-21 18:42:00"
+				},
+				{
+					"fn": "Faith",
+					"ln": "Gaddie",
+					"msg": "P1X mismatch",
+					"dt": "2018-05-21 18:42:00",
+					"dtd": "2018-02-21 18:42:00"
+				}
+			]
+		}
+	}
+}
